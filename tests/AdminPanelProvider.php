@@ -4,7 +4,7 @@ namespace EzitisItIs\FilamentNavigation\Tests;
 
 use Filament\Panel;
 use Filament\PanelProvider;
-use RyanChandler\FilamentNavigation\FilamentNavigation;
+use EzitisItIs\FilamentNavigation\FilamentNavigation;
 
 class AdminPanelProvider extends PanelProvider
 {

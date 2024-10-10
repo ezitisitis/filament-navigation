@@ -4,7 +4,7 @@ namespace EzitisItIs\FilamentNavigation\Filament\Resources\NavigationResource\Pa
 
 use Filament\Actions\CreateAction;
 use Filament\Resources\Pages\ListRecords;
-use RyanChandler\FilamentNavigation\FilamentNavigation;
+use EzitisItIs\FilamentNavigation\FilamentNavigation;
 
 class ListNavigations extends ListRecords
 {

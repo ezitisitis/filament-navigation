@@ -3,8 +3,8 @@
 namespace EzitisItIs\FilamentNavigation\Filament\Resources\NavigationResource\Pages;
 
 use Filament\Resources\Pages\EditRecord;
-use RyanChandler\FilamentNavigation\Filament\Resources\NavigationResource\Pages\Concerns\HandlesNavigationBuilder;
-use RyanChandler\FilamentNavigation\FilamentNavigation;
+use EzitisItIs\FilamentNavigation\Filament\Resources\NavigationResource\Pages\Concerns\HandlesNavigationBuilder;
+use EzitisItIs\FilamentNavigation\FilamentNavigation;
 
 class EditNavigation extends EditRecord
 {

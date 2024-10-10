@@ -11,7 +11,7 @@ use Filament\Forms\Components\TextInput;
 use Filament\Forms\Get;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
-use RyanChandler\FilamentNavigation\FilamentNavigation;
+use EzitisItIs\FilamentNavigation\FilamentNavigation;
 
 trait HandlesNavigationBuilder
 {

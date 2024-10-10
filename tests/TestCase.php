@@ -17,8 +17,8 @@ use Illuminate\Foundation\Testing\LazilyRefreshDatabase;
 use Illuminate\Support\Str;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
-use RyanChandler\BladeCaptureDirective\BladeCaptureDirectiveServiceProvider;
-use RyanChandler\FilamentNavigation\FilamentNavigationServiceProvider;
+use EzitisItIs\BladeCaptureDirective\BladeCaptureDirectiveServiceProvider;
+use EzitisItIs\FilamentNavigation\FilamentNavigationServiceProvider;
 
 class TestCase extends Orchestra
 {
@@ -29,7 +29,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'RyanChandler\\FilamentNavigation\\Database\\Factories\\'.class_basename($modelName).'Factory'
+            fn (string $modelName) => 'EzitisItIs\\FilamentNavigation\\Database\\Factories\\'.class_basename($modelName).'Factory'
         );
     }
 

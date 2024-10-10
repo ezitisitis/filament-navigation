@@ -8,8 +8,8 @@ use Filament\Forms\Components\Select;
 use Filament\Forms\Components\TextInput;
 use Filament\Panel;
 use Illuminate\Support\Str;
-use RyanChandler\FilamentNavigation\Filament\Resources\NavigationResource;
-use RyanChandler\FilamentNavigation\Models\Navigation;
+use EzitisItIs\FilamentNavigation\Filament\Resources\NavigationResource;
+use EzitisItIs\FilamentNavigation\Models\Navigation;
 
 class FilamentNavigation implements Plugin
 {

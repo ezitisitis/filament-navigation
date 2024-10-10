@@ -17,8 +17,8 @@ use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 use Illuminate\Support\HtmlString;
 use Illuminate\Support\Str;
-use RyanChandler\FilamentNavigation\FilamentNavigation;
-use RyanChandler\FilamentNavigation\Models\Navigation;
+use EzitisItIs\FilamentNavigation\FilamentNavigation;
+use EzitisItIs\FilamentNavigation\Models\Navigation;
 
 class NavigationResource extends Resource
 {

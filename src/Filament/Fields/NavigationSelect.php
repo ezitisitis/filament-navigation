@@ -3,7 +3,7 @@
 namespace EzitisItIs\FilamentNavigation\Filament\Fields;
 
 use Filament\Forms\Components\Select;
-use RyanChandler\FilamentNavigation\Models\Navigation;
+use EzitisItIs\FilamentNavigation\Models\Navigation;
 
 class NavigationSelect extends Select
 {
