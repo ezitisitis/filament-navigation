@@ -37,13 +37,13 @@
     },
     "autoload": {
         "psr-4": {
-            "RyanChandler\\FilamentNavigation\\": "src",
-            "RyanChandler\\FilamentNavigation\\Database\\Factories\\": "database/factories"
+            "EzitisItIs\\FilamentNavigation\\": "src",
+            "EzitisItIs\\FilamentNavigation\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "RyanChandler\\FilamentNavigation\\Tests\\": "tests"
+            "EzitisItIs\\FilamentNavigation\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -62,7 +62,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RyanChandler\\FilamentNavigation\\FilamentNavigationServiceProvider"
+                "EzitisItIs\\FilamentNavigation\\FilamentNavigationServiceProvider"
             ]
         }
     },
