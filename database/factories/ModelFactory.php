@@ -1,6 +1,6 @@
 <?php
 
-namespace RyanChandler\FilamentNavigation\Database\Factories;
+namespace EzitisItIs\FilamentNavigation\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 

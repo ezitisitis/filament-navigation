@@ -1,6 +1,6 @@
 <?php
 
-namespace RyanChandler\FilamentNavigation;
+namespace EzitisItIs\FilamentNavigation;
 
 use Closure;
 use Filament\Contracts\Plugin;

@@ -1,6 +1,6 @@
 <?php
 
-namespace RyanChandler\FilamentNavigation\Filament\Fields;
+namespace EzitisItIs\FilamentNavigation\Filament\Fields;
 
 use Filament\Forms\Components\Select;
 use RyanChandler\FilamentNavigation\Models\Navigation;

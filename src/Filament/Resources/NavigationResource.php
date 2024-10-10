@@ -1,6 +1,6 @@
 <?php
 
-namespace RyanChandler\FilamentNavigation\Filament\Resources;
+namespace EzitisItIs\FilamentNavigation\Filament\Resources;
 
 use Filament\Forms\Components\Group;
 use Filament\Forms\Components\Placeholder;
