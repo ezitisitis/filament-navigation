@@ -1,8 +1,7 @@
 {
-    "name": "ryangjchandler/filament-navigation",
+    "name": "ezitisitis/filament-navigation",
     "description": "Build structured navigation menus in Filament.",
     "keywords": [
-        "ryangjchandler",
         "laravel",
         "filament-navigation"
     ],
